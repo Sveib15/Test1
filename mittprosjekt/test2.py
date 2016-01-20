@@ -6,3 +6,5 @@ print Fem+Seks
 print Seks-Fem
 
 print Fem
+
+print "Svein Bruce"
