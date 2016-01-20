@@ -4,3 +4,5 @@ Seks=6
 print Fem+Seks
 
 print Seks-Fem
+
+print Fem
